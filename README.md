@@ -15,11 +15,12 @@ Certifique-se de ter as seguintes bibliotecas instaladas em seu ambiente de dese
 
 - PySide6
 - SpeechRecognition
+- Pyaudio
 
 Você pode instalá-las usando o seguinte comando:
 
 ```bash
-pip install PySide6 SpeechRecognition
+pip install PySide6 SpeechRecognition pyaudio
 
 Como usar
 
